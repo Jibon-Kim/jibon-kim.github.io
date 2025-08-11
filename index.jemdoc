@@ -1,19 +1,19 @@
-= 지본 김 — Home
+= Jibon Kim — Home
 Welcome to my homepage!
 
-== 소개
-안녕하세요. 제 관심사는 Control, Optimization, Guidance입니다.
+== Introduction
+Control, Optimization, Guidance
 [https://github.com/yourname GitHub] · [mailto:you@example.com Email]
 
-== 수식 예시
-인라인: $x^2 + y^2 = z^2$
+== Equation Example
+Inline: $x^2 + y^2 = z^2$
 
-전시식:
+Full equation : 
 $$
 \dot{x} = V\cos\gamma,\quad
 \dot{y} = V\sin\gamma,\quad
 \dot{\gamma} = \frac{A}{V}.
 $$
 
-== 페이지
+== Page
 [pubs.html Publications]
