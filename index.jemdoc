@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 = Jibon Kim — Home
 Welcome to my homepage!
 
@@ -16,4 +17,24 @@ $$
 $$
 
 == Page
+=======
+= Jibon Kim - Home
+Welcome to my homepage!
+
+== Introduction
+Control, Optimization, Guidance
+[https://github.com/yourname GitHub] · [mailto:you@example.com Email]
+
+== Equation Example
+Inline: $x^2 + y^2 = z^2$
+
+Full equation : 
+$$
+\dot{x} = V\cos\gamma,\quad
+\dot{y} = V\sin\gamma,\quad
+\dot{\gamma} = \frac{A}{V}.
+$$
+
+== Page
+>>>>>>> b5c638e (init site)
 [pubs.html Publications]
