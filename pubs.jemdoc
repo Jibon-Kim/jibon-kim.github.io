@@ -1,5 +1,12 @@
 # jemdoc: menu{menu.jemdoc}{Publications}, addcss{my.css}
 = Publications
-* J. Kim, and J.-H. Kim, [https://doi.org/10.1007/s42405-025-00904-y Spacecraft Attitude Control with On-Off Thrusters via Convex Optimization Based Control Allocation], International Journal of Aeronautical and Space Sciences, 2025.
 
-이게무슨일이야
+- J. Kim, and J.-H. Kim, [https://doi.org/10.1007/s42405-025-00904-y Spacecraft Attitude Control with On-Off Thrusters via Convex Optimization Based Control Allocation], International Journal of Aeronautical and Space Sciences, 2025.
+
+- J. Kim, G. Park, J. Choi, and J.-H. Kim, "[http://doi.org/10.5139/JKSAS.2024.52.10.809 Triangulation-based LOS Rate Estimation for Two-player Missile Team]," Journal of Korean Society for Aeronautical and Space Sciences, vol.52, no.10, pp.809-816, 2024.
+
+- J. Choi, J. Kim, and J.-H. Kim, "[http://doi.org/10.5139/JKSAS.2024.52.8.645 Lightweight Transformer Design for Real-time Flight Control Data Prediction]," Journal of Korean Society for Aeronautical and Space Sciences, vol.52, no.8, pp.645-653, 2024.
+
+- J. Kim, H.-J. Kim, and J.-H. Kim, "[https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11813887 Convex Optimization-Based Control Allocation for Attitude Control with On-off Thrusters]," in Proc. 2024 KSAS Spring Conference, pp.814-815, Apr. 2024.
+
+- S. Kim, J. Kim, J. Lee, E. Kim, and B. Kim, "[https://doi.org/10.20910/JASE.2023.17.1.79 Development and Validation of Dynamic Model for KC-100 UAS]," Journal of Aerospace System Engineering, vol.17, no.1, pp.79-87, 2023

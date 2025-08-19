@@ -5,13 +5,3 @@ Welcome to my homepage!
 == Introduction
 Control, Optimization, Guidance
 [mailto:jibonkim@inha.edu jibonkim@inha.edu]
-
-== Equation Example
-Inline: $x^2 + y^2 = z^2$
-
-Full equation : 
-$$
-\dot{x} = V\cos\gamma,\quad
-\dot{y} = V\sin\gamma,\quad
-\dot{\gamma} = \frac{A}{V}.
-$$
