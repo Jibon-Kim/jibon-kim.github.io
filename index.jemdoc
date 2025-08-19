@@ -1,4 +1,5 @@
-= Jibon Kim — Home
+# jemdoc: menu{menu.jemdoc}{Home}, addcss{my.css}
+= Jibon Kim
 Welcome to my homepage!
 
 == Introduction
