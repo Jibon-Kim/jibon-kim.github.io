@@ -4,7 +4,7 @@ chcp 65001 >nul
 cd /d %~dp0
 
 :: Python 경로 지정 (없으면 where python으로 보완)
-set "PY=C:\Users\user\anaconda3\python.exe"
+set "PY=C:\Users\ddrkj\anaconda3\python.exe"
 if not exist "%PY%" for /f "delims=" %%P in ('where python 2^>nul') do set "PY=%%P"
 if not exist "%PY%" (
   echo [ERROR] Python not found.
