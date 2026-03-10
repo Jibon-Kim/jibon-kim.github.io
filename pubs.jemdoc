@@ -1,8 +1,6 @@
 # jemdoc: menu{menu.jemdoc}{Publications}, addcss{my.css}
 = Publications
 
-- J. Kim, C.-K. Ryoo, and J.-H. Kim, "Robust Optimization-Based Weapon-Target Assignment with Ellipsoidal Modeling of Control Effort under Target Uncertainty," 2026 European Control Conference (ECC) (under review).
-
 - J. Kim, and J.-H. Kim, "A Robust Optimization-Based Weapon-Target Assignment Method Considering Target Information Uncertainty," in Proc. 2025 KSAS Fall Conference, Nov. 2025.
 
 - J. Shin, J. Kim, J.-H. Kim, K. Kang, and J. Choi, "Trajectory Optimization for a Ducted Rocket under Engine and Seeker Operating Conditions," in Proc. 2025 KSAS Fall Conference, Nov. 2025.
