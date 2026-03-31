@@ -1,11 +1,13 @@
 # jemdoc: menu{menu.jemdoc}{Publications}, addcss{my.css}
 = Publications
 
-- *J. Kim*, and J.-H. Kim\*, "A Robust Optimization-Based Weapon-Target Assignment Method Considering Target Information Uncertainty," in Proc. 2025 KSAS Fall Conference, Nov. 2025.
+== Articles
 
-- J. Shin, *J. Kim*, J.-H. Kim\*, K. Kang, and J. Choi, "Trajectory Optimization for a Ducted Rocket under Engine and Seeker Operating Conditions," in Proc. 2025 KSAS Fall Conference, Nov. 2025.
+- *J. Kim*, and J.-H. Kim\*, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12589184 A Robust Optimization-Based Weapon-Target Assignment Method Considering Target Information Uncertainty]," in Proc. 2025 KSAS Fall Conference, Nov. 2025.
 
-- Y. Chung, *J. Kim*, and J.-H. Kim\*, "Trajectory Optimization with Deferred Decision for Adaptive Threat Response," in Proc. 2025 KSAS Fall Conference, Nov. 2025.
+- J. Shin, *J. Kim*, J.-H. Kim\*, K. Kang, and J. Choi, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12589171 Trajectory Optimization for a Ducted Rocket under Engine and Seeker Operating Conditions]," in Proc. 2025 KSAS Fall Conference, Nov. 2025.
+
+- Y. Chung, *J. Kim*, and J.-H. Kim\*, "[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12589167 Trajectory Optimization with Deferred Decision for Adaptive Threat Response]," in Proc. 2025 KSAS Fall Conference, Nov. 2025.
 
 - *J. Kim*, and J.-H. Kim\*, "[https://doi.org/10.1007/s42405-025-00904-y Spacecraft Attitude Control with On-Off Thrusters via Convex Optimization Based Control Allocation]," International Journal of Aeronautical and Space Sciences, vol.26, pp.2695-2711, 2025.
 
@@ -18,3 +20,7 @@
 - *J. Kim*, H.-J. Kim, and J.-H. Kim\*, "[https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11813887 Convex Optimization-Based Control Allocation for Attitude Control with On-off Thrusters]," in Proc. 2024 KSAS Spring Conference, pp.814-815, Apr. 2024.
 
 - S. Kim, *J. Kim*, J. Lee, E. Kim, and B. Kim\*, "[https://doi.org/10.20910/JASE.2023.17.1.79 Development and Validation of Dynamic Model for KC-100 UAS]," Journal of Aerospace System Engineering, vol.17, no.1, pp.79-87, 2023
+
+== Dissertations
+
+- *J. Kim*, "[https://lib.gnu.ac.kr/\#/search/detail/5817818?offset=1 Suppression Methods of the Pilot-Induced Input due to Structural Vibration of Aircraft]", M.S. Dissertation, Gyeongsang National University, 2023.
