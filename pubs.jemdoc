@@ -3,7 +3,9 @@
 
 == Articles
 
-- J.-H. Kim\*, J. Choi, and *J. Kim*, "[https://doi.org/10.1109/LCSYS.2026.3703782 i-LiftProj: Spectrally Normalized Invertible Koopman Lifting for First-Order Nonlinear Optimal Control]," IEEE Control Systems Letters, vol.10, 2026.
+- J. Kim, C.-K. Ryoo, and J.-H. Kim, "Control-Effort-Based Robust Weapon-Target Assignment Under Predicted Intercept Point Uncertainty," Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering, (accepted for publication).
+
+- J.-H. Kim, J. Choi, and J. Kim, "[https://doi.org/10.1109/LCSYS.2026.3703782 i-LiftProj: Spectrally Normalized Invertible Koopman Lifting for First-Order Nonlinear Optimal Control]," IEEE Control Systems Letters (L-CSS), vol.10, pp.859-864, 2026. [./papers/2026_cdc_jhk_iliftproj.pdf Also to be presented at the 65th IEEE Conference on Decision and Control (CDC), Dec. 2026.]
 
 - J.-H. Kim\*, J. Choi, and *J. Kim*, "[./papers/2026_ifac_jhk_final.pdf Spectrally Normalized Koopman Lifting for Provably Stable First-Order Nonlinear Optimal Control]," 23rd IFAC World Congress, Aug. 2026.
 
